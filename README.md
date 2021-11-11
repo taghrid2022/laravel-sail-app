@@ -6,15 +6,18 @@ This project is created using laravel with sale. In order to create a new projec
 
 
 ## Create a new laravel project
--- Create a laravel project 
-curl -s "https://laravel.build/[project name]" | bash
+<p>Create a laravel project<br>
+    curl -s "https://laravel.build/[project name]" | bash
+</p>
 
--- Access the project directory
-cd [project name]
 
--- Run the project locally using sail
+<p>Access the project directory<br>
+    cd [project name]
+</p>
+
+<p>Run the project locally using sail<br>
 ./vendor/bin/sail up
-
+</p>
 
 ## Do database migration using sail
-./vendor/bin/sail artisan migrate
+<p>./vendor/bin/sail artisan migrate</p>
