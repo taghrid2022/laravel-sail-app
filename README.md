@@ -5,7 +5,7 @@ This project is created using laravel with sale. In order to create a new projec
 </p>
 
 
-## to create a new project
+## Create a new laravel project
 -- Create a laravel project 
 curl -s "https://laravel.build/[project name]" | bash
 
@@ -16,5 +16,5 @@ cd [project name]
 ./vendor/bin/sail up
 
 
-## Do database migration
+## Do database migration using sail
 ./vendor/bin/sail artisan migrate
