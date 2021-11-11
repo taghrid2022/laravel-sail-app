@@ -1,6 +1,6 @@
-<p align="center">This is a sample laravel project with basic authentication enabled.</p>
+<p>This is a sample laravel project with basic authentication enabled.</p>
 
-<p align="center">
+<p>
 This project is created using laravel with sale. In order to create a new project you need to  <a href="https://www.docker.com/">Docker</a> installed.
 </p>
 
