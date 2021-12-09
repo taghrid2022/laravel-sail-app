@@ -5,6 +5,13 @@ This project is created using laravel with sail. In order to create a new projec
 </p>
 
 
+Install php 8
+Install compoer 
+`composer install`
+
+Copy .env.example -> .env
+Edit DB configs
+
 ## Create a new laravel project
 <p>Create a laravel project<br>
     curl -s "https://laravel.build/[project name]" | bash
